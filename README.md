@@ -1,6 +1,16 @@
 # MFC-Image-Processing-Project
 MFC Image Processing Project
 
+
+수행기간 : 2023.05.18.~2023.06.07
+
+담당역할 : -FFT, IFFT, 평균필터, HPF, Laplacian, Median 필터의 각각 특징을 실습
+
+수행목표 : -Visual C++을 이용하여 비전 검사에 필요한 이미지 필터링, 주파수 및 노이즈 분석 등 이미지 처리 알고리즘 실습
+
+사용 기술 : C++, MFC
+
+
 ■ 기능 설명
 1) FFT(Fast Fouier Transform)
  - DFT의 계산량의 한계를 극복하기 위한 연산 알고리즘
